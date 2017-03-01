@@ -61,6 +61,7 @@
 19.  [Bay area DL school](http://www.bayareadlschool.org/) by Andrew Ng, Yoshua Bengio, Samy Bengio, Andrej Karpathy, Richard Socher, Hugo Larochelle and many others @ Stanford, CA (2016)
 20.[Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
 21. [UVA Deep Learning Course] (http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
+22. [Practical Deep Learning for Coders, Part 1] (http://course.fast.ai/) taught by Jeremy Howard (Kaggle's #1 competitor 2 years running)
 
 ### Videos and Lectures
 
